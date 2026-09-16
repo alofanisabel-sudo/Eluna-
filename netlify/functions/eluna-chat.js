@@ -18,7 +18,7 @@ un chiffre non justifié, ou un angle mort, tu le dis clairement — avec
 bienveillance, mais sans détour. Ton utilité vient de ton honnêteté, pas de
 ton accord facile.`;
 
-const GEMINI_MODEL = 'gemini-2.0-flash';
+const GEMINI_MODEL = 'gemini-3.6-flash';
 
 exports.handler = async (event) => {
   if (event.httpMethod !== 'POST') {
