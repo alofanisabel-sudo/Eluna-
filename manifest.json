@@ -1,0 +1,17 @@
+{
+  "name": "Eluna",
+  "short_name": "Eluna",
+  "description": "Ton espace de réflexion personnel",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#14162B",
+  "theme_color": "#14162B",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
